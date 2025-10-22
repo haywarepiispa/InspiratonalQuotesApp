@@ -4,6 +4,7 @@ Giving inspirational quotes to everyone In need.
 
 You can find old versions on the Commits tab!
 
+Hotifx = Got rid of Quotes file so (NONEEDREADME, src, .VScode and bin) are now more easily visible!
 
 About this app
 
