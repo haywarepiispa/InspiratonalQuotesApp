@@ -1,9 +1,11 @@
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
-
+import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
         
+        Scanner in = new Scanner(System.in);
+
         LocalTime nyt = LocalTime.now();
         DateTimeFormatter muoto = DateTimeFormatter.ofPattern("HH:mm:ss");
 
@@ -54,9 +56,30 @@ public class App {
             e.printStackTrace();
         }
         
+        System.out.println("-");
+        System.out.println("Even Rome wasn't built in a day, why shoud your life be?");
+        System.out.println("-");
+        System.out.println("Edes Roomaa ei rakennettu päivässä, miksi sinun elämäsi pitäisi olla?");
+        System.out.println("-");
+        System.out.println("Inte ens Rom byggdes på en dag, så varför skulle ditt liv göra det?");
+        System.out.println("-");
+        System.out.println("time a clock, kellonaika, klockan: " + nyt.format(muoto));
     
-    
-    
+        try {
+
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        
+        System.out.println("Give feedback if you want (in english preferably). Thank you for using! (just press enter if you dont want to give feedback.)");
+        String input = in.nextLine();
+        
+       if (input == "") {
+        return;
+       } else {
+        System.out.println(input + " Thank you for your feedback");
+       }
     
     
     }
