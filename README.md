@@ -28,7 +28,7 @@ Patch Notes 2.0
 - Updated laungages (added Swedish).
 - Fix for the text rows being too close to each other.
 - Added basic timeout (try, catch) between welcome texts and quotes.
-- bugfixes
+- bugfixes.
 
 Patch Notes 3.0
 
@@ -38,4 +38,12 @@ Patch Notes 3.0
 - added a new quote.
 - added a clock, which tells the users local time (HH:mm:ss).
 - made changes to the rows being too close (again).
-- bugfixes
+- bugfixes.
+
+Patch Notes 4.0
+
+- V.04 is here!
+- made code a bit more simple to read.
+- added user input for feedback purposes.
+- added a new quote.
+- bugfixes.
