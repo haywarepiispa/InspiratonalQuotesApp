@@ -47,3 +47,10 @@ Patch Notes 4.0
 - added user input for feedback purposes.
 - added a new quote.
 - bugfixes.
+
+Patch Notes 5.0
+
+- Made user input and "thanks for feedback" clearer.
+- added line comments for easier usage.
+- small adjustions to code.
+- bugfixes.
