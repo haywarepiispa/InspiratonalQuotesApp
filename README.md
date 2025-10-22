@@ -50,6 +50,7 @@ Patch Notes 4.0
 
 Patch Notes 5.0
 
+- V.05 is here!
 - Made user input and "thanks for feedback" clearer.
 - added line comments for easier usage.
 - small adjustions to code.
