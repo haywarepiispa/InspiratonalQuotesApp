@@ -22,10 +22,20 @@ SWE
 - Inga farliga ämnen alls.
 - Ingenting i appen är politiskt.
 
-Patch Notes
+Patch Notes 2.0
 
 - V.02 is here!
 - Updated laungages (added Swedish).
 - Fix for the text rows being too close to each other.
 - Added basic timeout (try, catch) between welcome texts and quotes.
+- bugfixes
+
+Patch Notes 3.0
+
+- V.03 is here!
+- fixed grammar problems.
+- fixed overall writing.
+- added a new quote.
+- added a clock, which tells the users local time (HH:mm:ss).
+- made changes to the rows being too close (again).
 - bugfixes
